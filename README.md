@@ -1,4 +1,0 @@
-ApacheComparatorOne
-===================
-
-Apache Comparator
