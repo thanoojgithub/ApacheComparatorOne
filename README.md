@@ -1,4 +1,4 @@
 ApacheComparatorOne
 ===================
 
-Apache Comparator
+Apache Comparator - maven project
